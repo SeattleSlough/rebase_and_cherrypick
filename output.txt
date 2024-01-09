@@ -1,0 +1,37 @@
+*   f13afa9 (origin/main, origin/HEAD) Merge pull request #2 from SeattleSlough/test_branch
+|\  
+| * 61c71f7 (origin/test_branch) deleted file1.py to enable rebase scenario
+| * 76554fe attempt to create two differences between main and test_branch
+| | *   61510f6 (HEAD -> main) Merge branch 'main' of https://github.com/SeattleSlough/rebase_and_cherrypick
+| | |\  
+| |_|/  
+|/| |   
+* | | afe466a richer2.txt
+| | *   4a71740 Merge branch 'main' of https://github.com/SeattleSlough/rebase_and_cherrypick
+| | |\  
+| |_|/  
+|/| |   
+* | | a025a3c second richer commit
+| | *   fe4f552 Merge branch 'main' of https://github.com/SeattleSlough/rebase_and_cherrypick
+| | |\  
+| |_|/  
+|/| |   
+* | | 4aafde2 added Richer's file
+| | * 7ef000d (test_branch) deleted file1.py to enable rebase scenario
+| | * ca6f914 attempt to create two differences between main and test_branch
+| | * df67121 setting up cherry pick
+| |/  
+|/|   
+* | 9a0074e deleting files
+|/  
+* 60fc222 getting main ahead of test_branch
+*   bf04a88 Merge pull request #1 from SeattleSlough/test_branch
+|\  
+| * 614a5e0 rebase test file being added
+| * 01432f5 second commit
+| * f1d10e0 first commit
+|/  
+| * 0028a9b (origin/experiment, experiment) setting up cherry pick
+|/  
+* c4a6896 initial commit
+* 62856e7 Initial commit
